@@ -1,0 +1,36 @@
+{
+    "@context": "https://w3id.org/ro/crate/1.1/context",
+    "@graph": [
+        {
+            "@id": "ro-crate-metadata.json",
+            "@type": "CreativeWork",
+            "about": {
+                "@id": "./"
+            },
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.1"
+            }
+        },
+        {
+            "@id": "./",
+            "@type": "Dataset",
+            "datePublished": "2021-08-04T13:02:51.712572",
+            "description": "Workspace Description here",
+            "hasPart": [
+                {
+                    "@id": "ARMS_KOSTER_VH1_190527-200716_2T_IMG_3492.json"
+                }
+            ],
+            "name": "test"
+        },
+        {
+            "@id": "#Cedric Decruw",
+            "@type": "Person",
+            "name": "Cedric Decruw"
+        },
+        {
+            "@id": "ARMS_KOSTER_VH1_190527-200716_2T_IMG_3492.json",
+            "@type": "File"
+        }
+    ]
+}
