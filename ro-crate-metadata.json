@@ -14,24 +14,23 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2021-08-04T13:02:51.712572",
-            "description": "Workspace Description here",
+            "datePublished": "2021-08-17T14:38:59.102521",
+            "description": "basic description ",
             "hasPart": [
                 {
-                    "@id": "3149364.json"
+                    "@id": "ExtraData.save"
                 }
             ],
-            "name": "test"
+            "name": "test_reverso"
         },
         {
-            "@id": "#Cedric Decruw",
+            "@id": "#test user",
             "@type": "Person",
-            "name": "Cedric Decruw"
+            "name": "test user"
         },
         {
-            "@id": "3149364.json",
-            "@type": "File",
-            "gender": "apache helicopter"
+            "@id": "ExtraData.save",
+            "@type": "File"
         }
     ]
 }
