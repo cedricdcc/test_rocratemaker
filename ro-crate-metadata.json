@@ -18,7 +18,7 @@
             "description": "Workspace Description here",
             "hasPart": [
                 {
-                    "@id": "ARMS_KOSTER_VH1_190527-200716_2T_IMG_3492.json"
+                    "@id": "3149364.json"
                 }
             ],
             "name": "test"
@@ -29,8 +29,9 @@
             "name": "Cedric Decruw"
         },
         {
-            "@id": "ARMS_KOSTER_VH1_190527-200716_2T_IMG_3492.json",
-            "@type": "File"
+            "@id": "3149364.json",
+            "@type": "File",
+            "gender": "apache helicopter"
         }
     ]
 }
