@@ -14,28 +14,14 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2021-08-17T14:38:59.102521",
+            "datePublished": "2021-08-17T14:57:52.494740",
             "description": "basic description ",
             "hasPart": [
                 {
                     "@id": "ExtraData.save"
-                },
-                {
-                    "@id": "3149365.json"
-                },
-                {
-                    "@id": "3149366.json"
                 }
             ],
             "name": "test_reverso"
-        },
-        {
-            "@id": "ExtraData.save",
-            "@type": "File"
-        },
-        {
-            "@id": "3149365.json",
-            "@type": "File"
         },
         {
             "@id": "#test user",
@@ -43,7 +29,7 @@
             "name": "test user"
         },
         {
-            "@id": "3149366.json",
+            "@id": "ExtraData.save",
             "@type": "File"
         }
     ]
