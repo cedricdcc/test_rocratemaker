@@ -19,9 +19,16 @@
             "hasPart": [
                 {
                     "@id": "ExtraData.save"
+                },
+                {
+                    "@id": "IMG_3656.JPG"
                 }
             ],
             "name": "test_reverso"
+        },
+        {
+            "@id": "ExtraData.save",
+            "@type": "File"
         },
         {
             "@id": "#test user",
@@ -29,7 +36,7 @@
             "name": "test user"
         },
         {
-            "@id": "ExtraData.save",
+            "@id": "IMG_3656.JPG",
             "@type": "File"
         }
     ]
