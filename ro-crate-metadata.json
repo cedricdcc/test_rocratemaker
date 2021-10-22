@@ -22,6 +22,15 @@
                 },
                 {
                     "@id": "IMG_3656.JPG"
+                },
+                {
+                    "@id": "jordylol_face.jpeg"
+                },
+                {
+                    "@id": "OculusScreenshot1575039887.jpeg"
+                },
+                {
+                    "@id": "OculusScreenshot1575039909.jpeg"
                 }
             ],
             "name": "test_reverso"
@@ -31,12 +40,30 @@
             "@type": "File"
         },
         {
+            "@id": "IMG_3656.JPG",
+            "@type": "File",
+            "gender": "apache helicopter",
+            "givenName": "testo"
+        },
+        {
+            "@id": "jordylol_face.jpeg",
+            "@type": "File",
+            "gender": "apache helicopter",
+            "givenName": "testo"
+        },
+        {
+            "@id": "OculusScreenshot1575039887.jpeg",
+            "@type": "File",
+            "gender": "apache helicopter",
+            "givenName": "testo"
+        },
+        {
             "@id": "#test user",
             "@type": "Person",
             "name": "test user"
         },
         {
-            "@id": "IMG_3656.JPG",
+            "@id": "OculusScreenshot1575039909.jpeg",
             "@type": "File"
         }
     ]
